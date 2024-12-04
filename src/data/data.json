@@ -1,0 +1,205 @@
+
+  [
+   {
+     "id": 1,
+     "title": "Guitar Fundamentals",
+     "slug": "guitar-fundamentals",
+     "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+     "price": 99.99,
+     "instructor": "John Doe",
+     "isFeatured": true,
+     "image": "/courses/guitar.jpg"
+   },
+   {
+     "id": 2,
+     "title": "Piano Basics",
+     "slug": "piano-basics",
+     "description": "Master the fundamentals of playing the piano.",
+     "price": 79.99,
+     "instructor": "Jane Smith",
+     "isFeatured": false,
+     "image": "/courses/piano.jpg"
+   },
+   {
+     "id": 3,
+     "title": "Vocal Training",
+     "slug": "vocal-training",
+     "description": "Improve your singing voice with our expert vocal training.",
+     "price": 129.99,
+     "instructor": "Michael Johnson",
+     "isFeatured": true,
+     "image": "/courses/vocal.jpg"
+   },
+   {
+     "id": 4,
+     "title": "Drumming 101",
+     "slug": "drumming-101",
+     "description": "Learn the basics of drumming and rhythm.",
+     "price": 89.99,
+     "instructor": "Emily Davis",
+     "isFeatured": false,
+     "image": "/courses/drums.jpg"
+   },
+   {
+     "id": 5,
+     "title": "Music Theory Essentials",
+     "slug": "music-theory-essentials",
+     "description": "Understand the building blocks of music theory.",
+     "price": 49.99,
+     "instructor": "David Lee",
+     "isFeatured": true,
+     "image": "/courses/music-theory.jpg"
+   },
+   {
+     "id": 6,
+     "title": "Songwriting Bootcamp",
+     "slug": "songwriting-bootcamp",
+     "description": "Learn how to write catchy songs from start to finish.",
+     "price": 149.99,
+     "instructor": "Sarah Kim",
+     "isFeatured": false,
+     "image": "/courses/songwriting.jpg"
+   },
+   {
+     "id": 7,
+     "title": "DJing for Beginners",
+     "slug": "djing-for-beginners",
+     "description": "Learn the art of mixing and blending music.",
+     "price": 69.99,
+     "instructor": "Chris Brown",
+     "isFeatured": true,
+     "image": "/courses/djing.jpg"
+   },
+   {
+     "id": 8,
+     "title": "Music Production 101",
+     "slug": "music-production-101",
+     "description": "Learn how to produce your own music with industry-standard software.",
+     "price": 199.99,
+     "instructor": "Alex Turner",
+     "isFeatured": false,
+     "image": "/courses/music-production.jpg"
+   },
+   {
+     "id": 9,
+     "title": "Guitar Improvisation Techniques",
+     "slug": "guitar-improvisation-techniques",
+     "description": "Learn how to improvise solos and create your own musical phrases.",
+     "price": 99.99,
+     "instructor": "John Doe",
+     "isFeatured": true,
+     "image": "/courses/guitar-improv.jpg"
+   },
+   {
+     "id": 10,
+     "title": "Piano Composition",
+     "slug": "piano-composition",
+     "description": "Learn how to compose your own piano pieces.",
+     "price": 129.99,
+     "instructor": "Jane Smith",
+     "isFeatured": false,
+     "image": "/courses/piano-composition.jpg"
+   },
+   {
+     "id": 11,
+     "title": "Advanced Vocal Techniques",
+     "slug": "advanced-vocal-techniques",
+     "description": "Master advanced vocal techniques like belting and vibrato.",
+     "price": 199.99,
+     "instructor": "Michael Johnson",
+     "isFeatured": true,
+     "image": "/courses/advanced-vocal.jpg"
+   },
+   {
+     "id": 12,
+     "title": "Drumming Styles and Genres",
+     "slug": "drumming-styles-and-genres",
+     "description": "Explore different drumming styles and genres.",
+     "price": 99.99,
+     "instructor": "Emily Davis",
+     "isFeatured": false,
+     "image": "/courses/drumming-styles.jpg"
+   },
+   {
+     "id": 13,
+     "title": "Music Theory Deep Dive",
+     "slug": "music-theory-deep-dive",
+     "description": "Dive deeper into the world of music theory.",
+     "price": 79.99,
+     "instructor": "David Lee",
+     "isFeatured": true,
+     "image": "/courses/music-theory-deep-dive.jpg"
+   },
+   {
+     "id": 14,
+     "title": "Songwriting Masterclass",
+     "slug": "songwriting-masterclass",
+     "description": "Master the art of songwriting with industry professionals.",
+     "price": 249.99,
+     "instructor": "Sarah Kim",
+     "isFeatured": false,
+     "image": "/courses/songwriting-masterclass.jpg"
+   },
+   {
+     "id": 15,
+     "title": "DJ Techniques and Tricks",
+     "slug": "dj-techniques-and-tricks",
+     "description": "Learn advanced DJ techniques and tricks.",
+     "price": 129.99,
+     "instructor": "Chris Brown",
+     "isFeatured": true,
+     "image": "/courses/dj-techniques.jpg"
+   },
+   {
+     "id": 16,
+     "title": "Advanced Music Production",
+     "slug": "advanced-music-production",
+     "description": "Take your music production skills to the next level.",
+     "price": 299.99,
+     "instructor": "Alex Turner",
+     "isFeatured": false,
+     "image": "/courses/advanced-music-production.jpg"
+   },
+   {
+     "id": 17,
+     "title": "Guitar Soloing Secrets",
+     "slug": "guitar-soloing-secrets",
+     "description": "Unleash your inner guitar hero with these soloing tips.",
+     "price": 89.99,
+     "instructor": "John Doe",
+     "isFeatured": true,
+     "image": "/courses/guitar-soloing.jpg"
+   },
+   {
+     "id": 18,
+     "title": "Piano Improvisation",
+     "slug": "piano-improvisation",
+     "description": "Learn to improvise beautiful melodies on the piano.",
+     "price": 119.99,
+     "instructor": "Jane Smith",
+     "isFeatured": false,
+     "image": "/courses/piano-improv.jpg"
+   },
+   {
+     "id": 19,
+     "title": "Vocal Performance Techniques",
+     "slug": "vocal-performance-techniques",
+     "description": "Master the art of performing on stage.",
+     "price": 149.99,
+     "instructor": "Michael Johnson",
+     "isFeatured": true,
+     "image": "/courses/vocal-performance.jpg"
+   },
+   {
+     "id": 20,
+     "title": "Drumming for Rock and Metal",
+     "slug": "drumming-for-rock-and-metal",
+     "description": "Learn how to play drums in rock and metal bands.",
+     "price": 99.99,
+     "instructor": "Emily Davis",
+     "isFeatured": false,
+     "image": "/courses/drumming-rock-metal.jpg"
+   }
+ ]
+
+ 
